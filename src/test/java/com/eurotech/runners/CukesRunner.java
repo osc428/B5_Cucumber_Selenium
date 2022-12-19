@@ -18,12 +18,12 @@ import org.junit.runner.RunWith;
         // tags = "@Navigate"
         // tags = "@Login"
         // tags = "@Teacher and @Eurotech"
-        // tags = "@Teacher"
+         tags = "@Teacher"
         // tags = "@Teacher and not @Eurotech"
         // tags = "@Login and not @Teacher"
         // tags = "@Student or @Teacher"
         // tags = "@pract1"
-         tags = "@Rerun"
+        // tags = "@Rerun"
         // tags = "@accountList"
         // Before version 4 and--> {"@Smoke and @Wip"}
         // Before version 5 or --> @Smoke, @Wip
